@@ -1,0 +1,61 @@
+16/10/2023 ------>
+    1. Introduced to the team.
+    2. Started the react course on udemy.
+
+-----------------!-----------------------!--------------------!--------------------
+
+17/10/23 -------->
+    1. revised the course.
+    2. Nithish gave me a KT session for the UI codebase.
+    3. Gained some introductory knowledge about C3 Project, MPP_TPT and MPP_TPR.
+
+-----------------!-----------------------!--------------------!--------------------
+    
+18/10/23 -------->
+	1. Nithish gave me task to implement the mail feature where user can direclty mail the reports generated.
+	2. Got more knowledge about the codebase. DAMN it's a very large codebase
+
+-----------------!-----------------------!--------------------!--------------------
+
+19/10/23 -------->
+	1. Stopped the task given bcoz of the securtiy purpose, google doesnot allow to directly add attachments in the mailbox.
+	2. Again gone through the codebase.
+
+-----------------!-----------------------!--------------------!--------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-----------------!-----------------------!--------------------!--------------------
+
+20/11/23 --------->
+	1. SP-T1897 -> Full Screnn Mode Feature. Implemented full screen feature in the JSON Report Analyzer Tab. But stopped bcoz of Modals dont open in the full screen mode.
+	2. Co-ordinated with Sudarshan for Unit Testing.
+
+-----------------!-----------------------!--------------------!--------------------
+
+21/11/23 --------->
+	1. IC1-T1904 -> Prepared a structure of json for the backend team. This needs to be discussed tmrw.
+	2. SP-I2642 -> Harish asigned me one issue and completed it today. Pushed and raised PR.
+	3. Co-ordinated with sudarshan to run unit test cases for the new SW release.
+
+-----------------!-----------------------!--------------------!--------------------
+
+22/11/23 ---------->
+	1. Meeting with Team to discuss the flow of IC1-T1904 task.
+	2. Did qiExcersicer test with TPR and TPT.
+
+-----------------!-----------------------!--------------------!--------------------
+
