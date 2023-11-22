@@ -23,21 +23,69 @@
 
 -----------------!-----------------------!--------------------!--------------------
 
+23/10/23 -------->
+	1. Introduced with Unit Testing Team(Logith and Hari)
+	2. Got a KT session from Patrick.
 
+-----------------!-----------------------!--------------------!--------------------
 
+25/10/23 -------->
+	1. IC1-I727 -> Fix issue of pop not closing on pressing escape.
+	2. Learned about how backend code works.
 
+-----------------!-----------------------!--------------------!--------------------
 
+26/10/23 -------->
+	1. worked on the issue IC1-I727 and completed. Pushed to my repo.
+	2. Learned more about backend.
 
+-----------------!-----------------------!--------------------!--------------------
 
+27/10/23 -------->
+	1. Got to create a excel sheet of what I know in react. take reference from the udemy coure.
+	2. Started a project from scratch named Food Ordering app, i.e., newly introduced in the react course. it will help me to gain more knowledge on react.
 
+-----------------!-----------------------!--------------------!--------------------
 
+30/10/23 -------->
+	1. Got a task of new UI for Report management.
+	2. IC-T1904 -> Started working on the tabbed component. Somehow my design got rejected from nithish.
 
+-----------------!-----------------------!--------------------!--------------------
 
+31/10/23 -------->
+	1. IC-T1904 -> This time I used react bootstrap Tabs Component and is looking nice also.
+	2. Also started to explore on the react flowchart, converting UML Code given from the backend to the react-flowchart.
 
+-----------------!-----------------------!--------------------!--------------------
 
+2/11/23 -------->
+	1. Continued to explore more on the react-flowchart.
+	2. Did Postioning Testing with Logith.
 
+-----------------!-----------------------!--------------------!--------------------
 
+3/11/23 --------->
+	1. For Some reason, stopped the react-flowchart.
+	2. continued working IC-T1904. Created a report folder with static data.
 
+-----------------!-----------------------!--------------------!--------------------
+
+6/11/23 --------->
+	1. Modified the report data with controls.
+
+-----------------!-----------------------!--------------------!--------------------
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
 -----------------!-----------------------!--------------------!--------------------
 
 20/11/23 --------->
