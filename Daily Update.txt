@@ -102,8 +102,26 @@
 -----------------!-----------------------!--------------------!--------------------
 
 22/11/23 ---------->
-	1. Meeting with Team to discuss the flow of IC1-T1904 task.
-	2. Did qiExcersicer test with TPR and TPT.
+	1. Did qiExcersicer test with TPR and TPT.
+	2. Meeting with Team to discuss the flow of IC1-T1904 task.
+
+	MEETING NOTES:- 
+		Remove delete folder icons in the tree
+		Keep an upload gproj , html and open file explorer icon in the project folder and run folders, which should upload specific files to specific places
+		Search, filter, and sort in Report Explorer
+		bring report explorer first tab
+		make auto suggestion for search -> 5 searches
+		Search -> pass the searched string to BE when the focus is done and the user clicked outside
+		no files need to be shown at the end of the final tree
+		remove top level - all projects
+		show test count for the whole project
+		add a new tag for recently run report
 
 -----------------!-----------------------!--------------------!--------------------
 
+23/11/23 ---------->
+	1. IC1-T1904 -> Change the UI of the folder tree. Minimize to one level. Remove the files at level 3 and update it with T1,T2,T3,.....
+	
+	
+-----------------!-----------------------!--------------------!--------------------
+	
