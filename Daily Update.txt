@@ -143,3 +143,12 @@
 				 -> use observer mobx in view report
 				 -> every time report should be refreshed when user clicks the view report tab
 	
+-----------------!-----------------------!--------------------!-------------------------------------!-----------------------!--------------------!-------------------------------------!-----------------------!--------------------!--------------------
+
+28/11/23 ---------->
+	1 IC1-T2077 -> Bala Sir Assigned task to me. Add Left-Right Buttons in marker label.
+				-> Add Buttons to UI.
+				-> Create Logic for clicking buttons.
+				-> make marker move according to the position also.
+				-> change style of the button
+				-> ask bala sir if its correct or not.
