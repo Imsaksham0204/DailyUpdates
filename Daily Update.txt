@@ -152,3 +152,26 @@
 				-> make marker move according to the position also.
 				-> change style of the button
 				-> ask bala sir if its correct or not.
+	
+-----------------!-----------------------!--------------------!-------------------------------------!-----------------------!--------------------!-------------------------------------!-----------------------!--------------------!--------------------
+
+29/11/23 --------->
+	1. IC1-T2077 -> Completed this task. Did UI change and got reviewed from Bala Sir.
+	2. IC-T1904 -> Discussed with BE Team how API calls have to be made.
+					Take BE access from Trinadh.
+					change button for the Levels.
+						Level 1 -> gproj
+						Level 2 ->gproj
+						Level 3 -> trace
+					
+					When clicked on buttons, send the particular path to hte BE, so that files can be received.
+					
+-----------------!-----------------------!--------------------!-------------------------------------!-----------------------!--------------------!-------------------------------------!-----------------------!--------------------!--------------------
+
+30/11/23 --------->
+	1. IC-T1904 -> Continued from last day.
+				-> Connected BE. Only working properly for MPP_TPR. Learn to connect backend and use async await for getting the JSON Data from the BE.
+				-> TODO:- Should Work for all the TPR AND TPT MODES.
+				-> need trace and html files path in object for TEST CASES also.
+				-> give file path to BE for html and trace file so that they can send the file itself. PUT Calls
+				
