@@ -175,3 +175,11 @@
 				-> need trace and html files path in object for TEST CASES also.
 				-> give file path to BE for html and trace file so that they can send the file itself. PUT Calls
 				
+-----------------!-----------------------!--------------------!-------------------------------------!-----------------------!--------------------!-------------------------------------!-----------------------!--------------------!--------------------
+
+1/12/23 --------->
+	IC-T1904 -> Improve Style for Buttons. NEED MORE IMPROVEMENT.
+			 -> Remove Reference Data and currentReport from the tree. Take help from Nithish.
+			 -> create API calls for trace file, open folder and html file.
+			 -> 
+-----------------!-----------------------!--------------------!-------------------------------------!-----------------------!--------------------!-------------------------------------!-----------------------!--------------------!--------------------
