@@ -1,0 +1,9 @@
+IC1-T1904 ->
+
+	1. Improve UI.
+	2. Implement Searching and Sorting.
+	3. Improve Loader and Icons.
+	4. Issue for HTML (Conflict in View Report and Current Report).
+	5. Try to optimize the component.
+	6. There are Lags while uploading the gproj and the trace file. Improve that also,
+	7. Give some new ideas. 

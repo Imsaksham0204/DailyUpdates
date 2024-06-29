@@ -183,3 +183,52 @@
 			 -> create API calls for trace file, open folder and html file.
 			 -> 
 -----------------!-----------------------!--------------------!-------------------------------------!-----------------------!--------------------!-------------------------------------!-----------------------!--------------------!--------------------
+
+4/12/23 -------->
+	IC-T1904 -> Improve API Calls.
+				Handle Loading. Display Loader.
+				
+-----------------!-----------------------!--------------------!-------------------------------------!-----------------------!--------------------!-------------------------------------!-----------------------!--------------------!--------------------
+6/12/23 -------->
+	1. IC1-I729 -> Completed the task and raised a draft PR.
+	2. IC-T1904 -> Work on TRACE FILE.
+				   Add Loader.
+				   MAKE UI ATTRACTIVE
+-----------------!-----------------------!--------------------!-------------------------------------!-----------------------!--------------------!-------------------------------------!-----------------------!--------------------!--------------------
+7/12/23 --------->
+	1. IC1-T2108 -> Retain test cases
+				 -> change Loader
+				 -> Make UI Consistent for TPR and TPT.
+				 -> change buttons icons
+	raise PR to Branch. (Move Buttons)
+-----------------!-----------------------!--------------------!-------------------------------------!-----------------------!--------------------!-------------------------------------!-----------------------!--------------------!--------------------	
+8/12/23 --------->
+	2. IC-T1904 -> Create new tab of view report.
+
+	
+	Sorting filesize, ascending and descending, time, results
+	
+	
+	
+	Heading
+	Loader
+	Search
+	Size Sorting
+	
+	
+	
+	sorting .
+	Donwload File.
+	Search Loading.
+	lazy loading-
+		use icons properly;
+	json upload
+	change the icon of Reference data
+	show loading percent
+	
+	CONCERNS:-
+	1. Expand All.
+	2. Search Test Cases
+	
+	
+	
